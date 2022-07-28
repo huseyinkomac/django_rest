@@ -11,7 +11,7 @@ After installing libraries
 You can run the project through local install of python or with docker compose
 
 ### Docker
-Running docker compose up from main directory will expose port 8080 and run the project
+Running docker compose up from main directory will expose port 8000 and run the project
 
 ```
 docker compose up -d
